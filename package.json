@@ -1,13 +1,13 @@
 {
-  "name": "rapture-toy-manager",
+  "name": "node-js-discord-bot-github-template",
   "version": "1.0.0",
-  "description": "Discord bot for Rapture",
+  "description": "Discord bot template",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "kmorris896",
-  "license": "SEE LICENSE IN LICENSE",
+  "license": "AGPL",
   "private": true,
   "dependencies": {
     "discord.js": "^11.5.1",
